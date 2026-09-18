@@ -1,0 +1,17 @@
+{
+  "name": "tao-te-ching-open-data",
+  "version": "0.1.0",
+  "description": "A compact bilingual, chapter-indexed Tao Te Ching dataset for reading, research, and responsible tools.",
+  "chapters": 81,
+  "languages": ["zh-Hans", "en"],
+  "english_translation": "James Legge, 1891",
+  "english_translation_status": "public domain",
+  "chinese_text_status": "classical text; public-domain source tradition; simplified display form",
+  "files": {
+    "data/chapters.json": "The 81 chapter records",
+    "data/topics.json": "Editorial reading paths; not canonical chapter classification",
+    "schema/chapter.schema.json": "JSON Schema for chapter records"
+  },
+  "homepage": "https://asklaotzu.com/tao",
+  "repository": "https://github.com/luolin094/tao-te-ching-open-data"
+}

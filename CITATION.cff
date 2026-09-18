@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Tao Te Ching Open Data
+message: If this dataset helps your work, please cite the repository and preserve the source attribution.
+type: dataset
+version: 0.1.0
+date-released: 2026-09-18
+authors:
+  - family-names: Ask Lao Tzu contributors
+    given-names: Ask Lao Tzu
+url: https://asklaotzu.com/tao
+repository-code: https://github.com/luolin094/tao-te-ching-open-data
+keywords:
+  - tao te ching
+  - lao tzu
+  - digital humanities
+  - bilingual text
+  - public domain
+license: CC0-1.0
