@@ -28,3 +28,5 @@ The Chinese text is a classical received text shown in simplified characters. Th
 If you publish an interpretation, label it as an interpretation. Do not present a generated summary as an ancient quotation. See [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) and [`docs/SOURCES.md`](docs/SOURCES.md).
 
 The companion reading site is [asklaotzu.com/tao](https://asklaotzu.com/tao).
+
+For an AI-client integration, see the companion [Ask Lao Tzu MCP server](https://github.com/luolin094/ask-lao-tzu-mcp).
